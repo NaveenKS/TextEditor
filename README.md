@@ -6,16 +6,16 @@
 
 ###Features:
 
-*NEW - Open a new ediding tab.
+->NEW - Open a new ediding tab.
 
-*OPEN - Open a new file.
+->OPEN - Open a new file.
 
-*SAVE - Save the file.
+->SAVE - Save the file.
 
-*SAVE AS - Save the file with a new name.
+->SAVE AS - Save the file with a new name.
 
-*CLEAR - Clear the contents from the editing area.
+->CLEAR - Clear the contents from the editing area.
 
-*SEARCH - Search for data in the file.
+->SEARCH - Search for data in the file.
 
-*CLOSE - Close the selected tab.
+->CLOSE - Close the selected tab.
