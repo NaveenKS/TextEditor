@@ -27,8 +27,13 @@ Features
 Images
 ------
 Front
+
 <img height="300" width="751" src="https://github.com/NaveenKS/TextEditor/blob/master/images/front.png"/>
+
 Open
+
 <img height="300" width="751" src="https://github.com/NaveenKS/TextEditor/blob/master/images/open.png"/>
+
 Search
+
 <img height="300" width="751" src="https://github.com/NaveenKS/TextEditor/blob/master/images/search.png"/>
