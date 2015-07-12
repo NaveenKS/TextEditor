@@ -1,21 +1,27 @@
 #Text Editor
 
-###Programming Language : JAVA(Swing for GUI)
+Programming Language
+-------------------
+JAVA(Swing for GUI)
 
-###Desciption : It is a simple text editor for modifying data in a file.
+Desciption
+---------
+It is a simple text editor for modifying data in a file.
 
-###Features:
+Features:
+--------
 
-->NEW - Open a new ediding tab.
 
-->OPEN - Open a new file.
+* NEW - Open a new ediding tab.
 
-->SAVE - Save the file.
+* OPEN - Open a new file.
 
-->SAVE AS - Save the file with a new name.
+* SAVE - Save the file.
 
-->CLEAR - Clear the contents from the editing area.
+* SAVE AS - Save the file with a new name.
 
-->SEARCH - Search for data in the file.
+* CLEAR - Clear the contents from the editing area.
 
-->CLOSE - Close the selected tab.
+* SEARCH - Search for data in the file.
+
+* CLOSE - Close the selected tab.
