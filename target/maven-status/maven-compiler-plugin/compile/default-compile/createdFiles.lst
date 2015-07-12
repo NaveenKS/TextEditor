@@ -1,0 +1,11 @@
+opensource/project/TextEditor/Actions/Search.class
+opensource/project/TextEditor/Actions/Save.class
+opensource/project/TextEditor/Actions/New.class
+opensource/project/TextEditor/Actions/Open.class
+opensource/project/TextEditor/Util/RegisterFile.class
+opensource/project/TextEditor/Actions/Close.class
+opensource/project/TextEditor/Actions/ButtonAction.class
+opensource/project/TextEditor/UI/FrontEndWithTabs.class
+opensource/project/TextEditor/Util/TextEditorConfig.class
+opensource/project/TextEditor/Actions/Clear.class
+opensource/project/TextEditor/UI/FrontEnd.class
