@@ -23,3 +23,7 @@ Features:
 * SEARCH - Search for data in the file.
 
 * CLOSE - Close the selected tab.
+
+Images
+------
+<img height="580" width="751" src=""/>
