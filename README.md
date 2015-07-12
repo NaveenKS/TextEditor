@@ -1,6 +1,6 @@
 #Text Editor
 
-Desciption
+Description
 ---------
 It is a simple text editor for modifying data in a file.
 
