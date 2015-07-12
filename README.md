@@ -1,12 +1,10 @@
 #Text Editor
 
-Programming Language
--------------------
-JAVA(Swing for GUI)
-
 Desciption
 ---------
 It is a simple text editor for modifying data in a file.
+
+Programming Language : JAVA(Swing for GUI)
 
 Features:
 --------
