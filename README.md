@@ -26,6 +26,6 @@ Features
 
 Images
 ------
-<img height="580" width="751" src="https://github.com/NaveenKS/TextEditor/blob/master/images/front.png"/>
-<img height="580" width="751" src="https://github.com/NaveenKS/TextEditor/blob/master/images/open.png"/>
-<img height="580" width="751" src="https://github.com/NaveenKS/TextEditor/blob/master/images/search.png"/>
+<img height="300" width="751" src="https://github.com/NaveenKS/TextEditor/blob/master/images/front.png"/>
+<img height="300" width="751" src="https://github.com/NaveenKS/TextEditor/blob/master/images/open.png"/>
+<img height="300" width="751" src="https://github.com/NaveenKS/TextEditor/blob/master/images/search.png"/>
